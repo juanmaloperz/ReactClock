@@ -15,11 +15,11 @@ describe('handleSetCountdown', () =>{
     var countdown = TestUtils.renderIntoDocument(<Countdown/>)
     countdown.handleSetCountdown(10);
 
-    expect(countdown.state.count)toBe(10);
+    expect(countdown.state.count).toBe(10);
     expect(countdown.state.countdownstatus).toBe('started');
 
     setTimeOut(() =>{
-    expect(countdown.state.count)toBe(9);
+    expect(countdown.state.count).toBe(9);
       done();
     },1001)
 });
@@ -28,7 +28,7 @@ describe('handleSetCountdown', () =>{
       countdown.handleSetCountdown(2);
 
       setTimeOut(() =>{
-      expect(countdown.state.count)toBe(0);
+      expect(countdown.state.count).toBe(0);
         done();
       },3001)
 });
