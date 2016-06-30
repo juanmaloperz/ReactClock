@@ -60,6 +60,7 @@ render: function(){
   };
   return(
     <div>
+      <h1 className="page-tittle"> Countdown APP </h1>
        <Clock totalSeconds={count}/>
        {renderControlArea()}
     </div>
