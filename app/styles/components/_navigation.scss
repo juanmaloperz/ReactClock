@@ -5,6 +5,9 @@
 .menu > li > a {
   display: inline;
 }
+li{
+  font-size: 1.6em;
+}
 
 .top-bar .menu-text{
   color:$nav-text-color;
@@ -12,4 +15,8 @@
 
 .active-link {
   font-weight: bold;
+}
+
+a{
+  color: red;
 }

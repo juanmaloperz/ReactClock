@@ -24,11 +24,10 @@ module.exports = {
       Main: 'app/components/Main.jsx',
       applicationStyles: 'app/styles/app.scss',
       Nav: 'app/components/Nav.jsx',
-      Timer: 'app/components/Timer.jsx',
-      Countdown: 'app/components/Countdown.jsx',
-      Clock: 'app/components/Clock.jsx',
-      CountdownForm: 'app/components/CountdownForm.jsx',
-      Controls: 'app/components/Controls.jsx'
+      Contacto: 'app/components/Contacto.jsx',
+      Historia: 'app/components/Historia.jsx',
+      Productos: 'app/components/Productos.jsx',
+      Socios: 'app/components/Socios.jsx',
     },
     extensions: ['', '.js', '.jsx']
   },

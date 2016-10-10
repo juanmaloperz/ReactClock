@@ -7,20 +7,19 @@ var Nav = () => {
       <div className="top-bar-left">
         <ul className="menu">
           <li className="menu-text">
-            React Timer App
+          ARZUL
           </li>
           <li>
-            <IndexLink to="/" activeClassName="active-link">Timer</IndexLink>
+            <IndexLink to="/" activeClassName="active-link">Socios</IndexLink>
           </li>
           <li>
-            <Link to="/Countdown" activeClassName="active-link">Countdown</Link>
+            <Link to="/historia" activeClassName="active-link">Historia</Link>
           </li>
-        </ul>
-      </div>
-      <div className="top-bar-right">
-        <ul className="menu">
-          <li className="menu-text">
-            Created by <a href="https://co.linkedin.com/in/juan-manuel-lopez-mora-0a412b66" target="_blank">Juan Lopez</a>
+          <li>
+            <Link to="/productos" activeClassName="active-link">Productos</Link>
+          </li>
+          <li>
+            <Link to="/contacto" activeClassName="active-link">Contacto</Link>
           </li>
         </ul>
       </div>
