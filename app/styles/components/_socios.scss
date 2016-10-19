@@ -6,15 +6,18 @@
 
 }
 
+h1{
+  color: white;
+}
 .lovely{
   border: solid;
   border-color: $nav-background;
   width: 250px;
-  height: 250px;
+  height: 200px;
 }
 .lovely:hover{
 width: 275px;
-height: 275px;
+height: 225px;
 }
 
 h1{
