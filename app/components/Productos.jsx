@@ -8,9 +8,9 @@ return(
     <img src={'http://res.cloudinary.com/dkr9ndsvc/image/upload/c_scale,r_1,w_2143/v1476113267/LOGO_ARZUL_pn8ecv.jpg'}/>
     </div>
       <ul class="horizontal menu" data-magellan>
-      <li><a href="#first">Bloque y Ladrillos</a></li>
-      <li><a href="#second">Tablon y Tejas</a></li>
-      <li><a href="#third">Mallas</a></li>
+      <li><a href="#first">Bloque, Bloquelon y Ladrillo</a></li>
+      <li><a href="#second">Tablon,Tableta y Tejas</a></li>
+      <li><a href="#third">Mallas decorativas</a></li>
     </ul>
     <div class="sections">
       <section id="first" data-magellan-target="first">
