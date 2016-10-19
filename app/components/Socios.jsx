@@ -5,13 +5,13 @@ var Socios = React.createClass({
 
 render: function(){
 return(
-   <div className="portada">
+    <div className="portada">
        <div className="integrantes">
        <img src={'http://res.cloudinary.com/dkr9ndsvc/image/upload/c_scale,r_1,w_2143/v1476113267/LOGO_ARZUL_pn8ecv.jpg'}/>
        </div>
-       <div className="partner">
-        <h1> Nuestros Socios </h1>
-       </div>
+        <div className="partner">
+         <h1> Nuestros Socios </h1>
+        </div>
        <div className="logos">
           <a href="http://zuligres.com"> <img src={'http://res.cloudinary.com/dkr9ndsvc/image/upload/c_pad,h_200,w_250/v1476905720/LOGO_ARCILLAS_ZULIGRES1-2_witqgy.jpg'} className="lovely hover"/> </a>
         <a href="http://tejarsantamaria.com"> <img src={'http://res.cloudinary.com/dkr9ndsvc/image/upload/c_pad,h_200,w_250/v1476905512/LOGO_TEJAR_SANTA_MARIA1_kllobg.jpg'} className="lovely hover"/> </a>
