@@ -14,7 +14,7 @@ return(
         </div>
        <div className="logos">
           <a href="http://zuligres.com"> <img src={'http://res.cloudinary.com/dkr9ndsvc/image/upload/c_pad,h_200,w_250/v1476905720/LOGO_ARCILLAS_ZULIGRES1-2_witqgy.jpg'} className="lovely hover"/> </a>
-        <a href="http://tejarsantamaria.com"> <img src={'http://res.cloudinary.com/dkr9ndsvc/image/upload/c_pad,h_200,w_250/v1476905512/LOGO_TEJAR_SANTA_MARIA1_kllobg.jpg'} className="lovely hover"/> </a>
+        <a href="http://tejarsantamaria.com"> <img src={'http://res.cloudinary.com/dkr9ndsvc/image/upload/c_pad,h_200,w_250/v1476994336/LOGO_TEJAR_SANTA_MARIA1_jjqdqq.jpg'} className="lovely hover"/> </a>
         <a href="http://www.ladrilleramerkagres.com"> <img src={'http://res.cloudinary.com/dkr9ndsvc/image/upload/c_pad,h_200,w_250/v1476898128/LOGO_MERKAGRES1_jwqpik.jpg'} className="lovely hover"/> </a>
         <a href="http://arcillassansimon.com/"> <img src={'http://res.cloudinary.com/dkr9ndsvc/image/upload/c_pad,h_200,w_250/v1476898234/LOGO_ARCILLAS_SAN_SIMO%CC%81N1_oyd4pz.jpg'} className="lovely hover"/> </a>
         <a href="http://www.arcillasdecolombia.com"> <img src={'http://res.cloudinary.com/dkr9ndsvc/image/upload/c_pad,h_200,w_250/v1476897901/LOGO_ARCILLAS_DE_COLOMBIA1_m2fdxy.jpg'} className="lovely hover"/> </a>

@@ -28,6 +28,7 @@ module.exports = {
       Historia: 'app/components/Historia.jsx',
       Productos: 'app/components/Productos.jsx',
       Socios: 'app/components/Socios.jsx',
+      Footer: 'app/components/Footer.jsx'
     },
     extensions: ['', '.js', '.jsx']
   },
